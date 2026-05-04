@@ -1,0 +1,12 @@
+[
+  {
+    "id": "customer-a",
+    "name": "Customer A",
+    "active": true,
+    "cadence": "daily",
+    "transport": "email-excel",
+    "recipients": [
+      "customer-a-ops@example.com"
+    ]
+  }
+]
